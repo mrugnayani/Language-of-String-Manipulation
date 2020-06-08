@@ -1,0 +1,8 @@
+$start
+var A;
+assign(A,Hello);
+display(A);
+search(A,e);
+replace(A,h,b);
+display(A);
+$end

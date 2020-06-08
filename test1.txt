@@ -1,0 +1,10 @@
+$start
+var A,B;
+assign(A,Hello);
+assign(B,World);
+var C;
+C=concat(A,B);
+display(A);
+display(B);
+display(C);
+$end

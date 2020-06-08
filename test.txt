@@ -1,0 +1,14 @@
+$start
+var A,B;
+assign(A,Hello);
+assign(B,World);
+display(A);
+display(B);
+var C;
+C=concat(A,B);
+display(C);
+search(C,w);
+replace(A,h,b);
+display(A);
+length(C);
+$end
